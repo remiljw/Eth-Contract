@@ -1,3 +1,5 @@
+[![Eth-Contract](https://github.com/remiljw/Eth-Contract/workflows/main%20workflow/badge.svg)](https://github.com/remiljw/Eth-Contract/actions)
+
 # token-mix
 
 A bare-bones implementation of the Ethereum [ERC-20 standard](https://eips.ethereum.org/EIPS/eip-20), written in [Solidity](https://github.com/ethereum/solidity).
